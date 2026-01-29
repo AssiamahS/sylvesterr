@@ -1,0 +1,12 @@
+{
+  "name": "sylvester",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node sylvester.js"
+  },
+  "dependencies": {
+    "playwright": "^1.42.0",
+    "node-fetch": "^3.3.2"
+  }
+}
